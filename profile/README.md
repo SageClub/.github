@@ -1,4 +1,5 @@
 # Sage Club
+<img width="1152" height="770" alt="image" src="https://github.com/user-attachments/assets/a7b1c2b6-bf73-4998-9393-a2468bf7eace" />
 
 **A community of algorithmic traders, quants, and builders.**
 
